@@ -1,0 +1,132 @@
+
+[types]
+
+	[types.leaves_type]
+
+		[types.leaves_type.nethers_exoticism]
+			jaboticaba = true
+
+		[types.leaves_type.quark]
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			pink_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+			ancient = true
+
+		[types.leaves_type.environmental]
+			willow = true
+			cherry = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = true
+			morado = true
+			flowering_morado = true
+			yucca = true
+			kousa = true
+			aspen = true
+			grimwood = true
+
+		[types.leaves_type.autumnity]
+			maple = true
+			yellow_maple = true
+			orange_maple = true
+			red_maple = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+	[types.wood_type]
+
+		[types.wood_type.domum_ornamentum]
+			cactus = true
+			cactus_extra = true
+
+		[types.wood_type.nethers_exoticism]
+			jabuticaba = true
+			ramboutan = true
+
+		[types.wood_type.quark]
+			bamboo = true
+			azalea = true
+			blossom = true
+			ancient = true
+
+		[types.wood_type.environmental]
+			willow = true
+			cherry = true
+			wisteria = true
+
+		[types.wood_type.atmospheric]
+			rosewood = true
+			morado = true
+			yucca = true
+			kousa = true
+			aspen = true
+			grimwood = true
+
+		[types.wood_type.autumnity]
+			maple = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+[entries]
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[entries.leaves_type.buildersaddition]
+			hedge = true
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
+
+	[entries.wood_type]
+
+		[entries.wood_type.buildersaddition]
+			counter_blackstone = true
+			bedside_table = true
+			bookshelf = true
+			small_cupboard = true
+			counter_diorite = true
+			shelf = true
+			cupboard = true
+			arcade = true
+			counter_deepslate = true
+			bench = true
+			chair = true
+			counter_andesite = true
+			table = true
+			support_bracket = true
+			cabinet = true
+			counter_granite = true
+			stool = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.quark]
+			hollow_log = true
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+
+		[entries.wood_type.woodworks]
+			boards = true
+			beehive = true
+			bookshelf = true
+			ladder = true
+
