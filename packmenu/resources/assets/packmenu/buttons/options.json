@@ -1,0 +1,11 @@
+{
+	"x": -100,
+	"y": 200,
+	"width": 97,
+	"height": 20,
+	"langKey": "menu.options",
+	"action": "OPEN_GUI",
+	"data": "OPTIONS",
+	"fontColor": 16776960,
+	"texture": "packmenu:textures/gui/widgets.png"
+}

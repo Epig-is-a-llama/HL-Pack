@@ -1,0 +1,11 @@
+{
+	"x": -100,
+	"y": 174,
+	"width": 200,
+	"height": 20,
+	"langKey": "menu.multiplayer",
+	"action": "OPEN_GUI",
+	"data": "MULTIPLAYER",
+	"fontColor": 16776960,
+	"texture": "packmenu:textures/gui/widgets.png"
+}
